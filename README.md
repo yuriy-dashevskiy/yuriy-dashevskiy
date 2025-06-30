@@ -41,7 +41,7 @@ Utilized Python + SQL for generating music suggestions using stored spotify play
 🏪[SuperStore Returns](https://github.com/yuriy-dashevskiy/superstore-returns-tableau) <br/>
 Utilized Tableau for providing visuals for return rates of products from Superstore
 
-🏠[NYC Airbnb Analysis](https://github.com/yuriy-dashevskiy/airbnb-manhattan-analytics)
+🏠[NYC Airbnb Analysis](https://github.com/yuriy-dashevskiy/airbnb-manhattan-analytics) <br/>
 Utilized Excel for providing analytics on Manhattan vacation rentals in NYC
 
 ## ⚡ Fun facts:
