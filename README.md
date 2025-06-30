@@ -1,4 +1,4 @@
-# Hi there 👋, This is Yuriy Dashevskiy
+# Hi there 👋, my name is Yuriy Dashevskiy
 
 <!--
 **yuriy-dashevskiy/yuriy-dashevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
