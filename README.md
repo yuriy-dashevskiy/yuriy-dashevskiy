@@ -44,6 +44,6 @@ Utilized Tableau for providing visuals for return rates of products from Superst
 🏠[NYC Airbnb Analysis](https://github.com/yuriy-dashevskiy/airbnb-manhattan-analytics) <br/>
 Utilized Excel for providing analytics on Manhattan vacation rentals in NYC
 
-## ⚡ Fun facts:
+## ⚡ Fun Facts:
 🎓 Studied at Polytechnic Institute of New York University (Computer Science)<br/>
 ✈️ Enjoy traveling to learn more about the world
