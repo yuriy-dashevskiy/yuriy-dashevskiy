@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📍 Greater NYC Area | 🔗 [Linkedin](https://www.linkedin.com/in/yuriy-dashevskiy/)
 
 ## About Me
-Data-driven business analyst with over 10+ years experience as BA/SE working with OCR Technology and creating visualization stories using data driven analysis
+Passionate business analyst with over 10+ years experience as BA/SE working with OCR Technology and creating visualization stories using data driven analysis
 ## What I Bring
 💡 Business intelligence solutions using SQL, Excel, Tableau, and Power BI<br/>
 📊 KPI dashboards, cohort/retention modeling, and operational analysis<br/>
