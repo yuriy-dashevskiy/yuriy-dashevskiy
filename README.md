@@ -1,53 +1,69 @@
-# Hi there 👋, my name is Yuriy Dashevskiy
+# Hi there 👋, I'm Yuriy Dashevskiy
 
-<!--
-**yuriy-dashevskiy/yuriy-dashevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎯 Business Intelligence Analyst | Visual Storyteller | Part-Time Software Engineer**  
+**📍 Greater NYC Area**  
+[🔗 LinkedIn](https://www.linkedin.com/in/yuriy-dashevskiy/) | [📧 Email](mailto:yuriy_dashevskiy@hotmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🎯 Business Intelligence Analyst | Visual Storyteller | Part time Software Engineer<br/>
-📍 Greater NYC Area | 🔗 [Linkedin](https://www.linkedin.com/in/yuriy-dashevskiy/)
+## 👨‍💻 About Me
 
-## About Me
-Passionate business analyst with over 10+ years experience as BA/SE working with OCR Technology and creating visualization stories using data driven analysis
-## What I Bring
-💡 Business intelligence solutions using SQL, Excel, Tableau, and Power BI<br/>
-📊 KPI dashboards, cohort/retention modeling, and operational analysis<br/>
-📸 Visual storytelling through dashboard design<br/>
-👨‍💻 Python Programming, including API calls/Pandas
+I'm a passionate Business Analyst with over **10 years of experience** in process optimization, data analysis, and cross-functional collaboration. I specialize in leveraging **OCR technology**, building data-driven solutions, and creating compelling visual stories using tools like **Tableau**, **SQL**, and **Python**.
+
+I enjoy turning complex data into actionable insights and have a track record of driving operational improvements — like **reducing errors by 95%** and **speeding up processing by 35%**.
+
+---
 
 ## 🛠️ Skills & Tech Stack
-SQL/MySQL/Postgres • Excel • Tableau • Power BI • Python • C++ <br/>
-Data Cleaning • Cohort Analysis • Executive Reporting
 
-## 📄 Resume
-[Current Resume](https://github.com/yuriy-dashevskiy/resume)
+| Category       | Technologies & Tools |
+|----------------|----------------------|
+| **Languages**  | SQL, Python, PHP, C++ |
+| **Databases**  | MySQL, SQLite, Postgres |
+| **BI & Visualization** | Tableau, Power BI, Excel (Pivot Tables, Charts) |
+| **Tools & Methods** | Jira, OCR Systems, BPMN, ETL, GitHub, Process Modeling |
 
-## 💻 Projects
+---
 
-🏡[NextGen Analyzers](https://github.com/yuriy-dashevskiy/NextGen-Analyzers)
-<br>
-Utilized Tableau + Excel for creating analysis about whether Millennials have lower/higher home ownership rate compare to previous generations
+## 📊 What I Bring
 
-<a href="https://emoji.gg/emoji/SpotifyLogo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="16px" height="16px" alt="SpotifyLogo"></a>
-[Spotify Music Suggestion](https://github.com/yuriy-dashevskiy/song_suggestion) <br/>
-Utilized Python + SQL for generating music suggestions using stored spotify playlist ids in a locally installed SQLite DB
+- 💡 **Business Intelligence Solutions** using SQL, Excel, Tableau, and Power BI  
+- 📊 **KPI dashboards**, cohort/retention modeling, and operational analysis  
+- 📸 **Visual storytelling** through intuitive dashboard design  
+- 👨‍💻 **Python scripting** for automation, API integration, and data analysis (Pandas)  
+- 🔁 **ETL & Data Cleaning** for reliable and accurate reporting
 
-🏪[SuperStore Returns](https://github.com/yuriy-dashevskiy/superstore-returns-tableau) <br/>
-Utilized Tableau for providing visuals for return rates of products from Superstore
+---
 
-🏠[NYC Airbnb Analysis](https://github.com/yuriy-dashevskiy/airbnb-manhattan-analytics) <br/>
-Utilized Excel for providing analytics on Manhattan vacation rentals in NYC
+## 📁 Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| **[🏡 NextGen Analyzers](https://github.com/yuriy-dashevskiy/NextGen-Analyzers)** | Analyzed U.S. homeownership trends across generations using Census and FRED data. | Tableau, Excel |
+| **[🎵 Spotify Song Suggestion](https://github.com/yuriy-dashevskiy/song_suggestion)** | Python-based recommendation engine using Spotify's API and SQLite for personalized music suggestions. | Python, SQLite, Spotify API |
+| **[🏪 SuperStore Returns](https://github.com/yuriy-dashevskiy/superstore-returns-tableau)** | Interactive Tableau dashboard to analyze product return rates and key drivers. | Tableau |
+| **[🏠 NYC Airbnb Analysis](https://github.com/yuriy-dashevskiy/)** | Analytical review of Manhattan vacation rental performance and trends. | Excel |
+
+---
+
+## 📄 Resume  
+📥 [View My Resume](https://github.com/yuriy-dashevskiy/resume)
+
+---
+
+## 🎓 Education
+
+- **TripleTen** – Business Intelligence Analysis Program (*Apr 2025 - Jul 2025*)  
+- **Polytechnic Institute of NYU** – BS in Computer Science (*Sep 2009 - Jun 2013*)  
+  - *Relevant Coursework:* Data Structures, Algorithms, Database Systems, Software Engineering
+
+---
 
 ## ⚡ Fun Facts:
-🎓 Studied at Polytechnic Institute of New York University (Computer Science)<br/>
+🍣 Foodie and always looking to try new dishes <br/>
 ✈️ Enjoy traveling to learn more about the world
+
+---
+
+Let's connect and build something impactful together!  
+📫 Reach me at: **yuriy_dashevskiy@hotmail.com**
