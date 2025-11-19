@@ -34,6 +34,10 @@ Data Cleaning • Cohort Analysis • Executive Reporting
 
 ## 💻 Projects
 
+🏡[NextGen Analyzers](https://github.com/yuriy-dashevskiy/NextGen-Analyzers)
+<br>
+Utilized Tableau + Excel for creating analysis about whether Millennials have lower/higher home ownership rate compare to previous generations
+
 <a href="https://emoji.gg/emoji/SpotifyLogo"><img src="https://cdn3.emoji.gg/emojis/SpotifyLogo.png" width="16px" height="16px" alt="SpotifyLogo"></a>
 [Spotify Music Suggestion](https://github.com/yuriy-dashevskiy/song_suggestion) <br/>
 Utilized Python + SQL for generating music suggestions using stored spotify playlist ids in a locally installed SQLite DB
